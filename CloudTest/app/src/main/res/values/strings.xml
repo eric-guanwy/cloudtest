@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CloudTest</string>
+    <string name="button_name">启动云测</string>
+    <string name="big_window_close">关闭悬浮窗</string>
+    <string name="big_window_back">返回</string>
+    <string name="deviceinfo">设备信息</string>
+
+</resources>
